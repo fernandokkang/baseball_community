@@ -58,33 +58,17 @@ http://52.78.30.79:8080/login
 ![아키텍처](https://github.com/jeonginwoo/ormi4th-spring-project/assets/96004205/ff6034bd-4b0c-4c89-9542-238ddaf6a22f)
 ## 7. Skills
 
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=SpringBoot&logoColor=white"/>
-<img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=plastic&logo=SpringSecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=SpringBoot&logoColor=white"/><img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=plastic&logo=SpringSecurity&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/Java-3766AB?style=plastic-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-3766AB?style=plastic-square&logo=Java&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic-square&logo=JavaScript&logoColor=white"/><img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic-square&logo=HTML5&logoColor=white"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic-square&logo=CSS3&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=plastic-square&logo=IntelliJ IDEA&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gradle-02303A?style=plastic-square&logo=Gradle&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=plastic-square&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic-square&logo=Figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=plastic-square&logo=Docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Discord-5865F2?style=plastic-square&logo=Discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=plastic-square&logo=IntelliJ IDEA&logoColor=white"/><img src="https://img.shields.io/badge/Gradle-02303A?style=plastic-square&logo=Gradle&logoColor=white"/><img src="https://img.shields.io/badge/GitHub-181717?style=plastic-square&logo=GitHub&logoColor=white"/><img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic-square&logo=Figma&logoColor=white"/><img src="https://img.shields.io/badge/Docker-2496ED?style=plastic-square&logo=Docker&logoColor=white"/><img src="https://img.shields.io/badge/Discord-5865F2?style=plastic-square&logo=Discord&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=plastic-square&logo=Amazon RDS&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=plastic-square&logo=Spring Data JPA&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mybatis-000000?style=plastic-square&logo=Mybatis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=plastic-square&logo=Amazon RDS&logoColor=white"/><img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic-square&logo=MySQL&logoColor=white"/><img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=plastic-square&logo=Spring Data JPA&logoColor=white"/><img src="https://img.shields.io/badge/Mybatis-000000?style=plastic-square&logo=Mybatis&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/Windows 10-0078D6?style=plastic-square&logo=Windows 10&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic-square&logo=Ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows 10-0078D6?style=plastic-square&logo=Windows 10&logoColor=white"/><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic-square&logo=Ubuntu&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=plastic-square&logo=Amazon EC2&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon S3-569A31?style=plastic-square&logo=Amazon S3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon CodeDeploy-DD344C?style=plastic-square&logo=Amazon CodeDeploy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Github Actions-2088FF?style=plastic-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=plastic-square&logo=Amazon EC2&logoColor=white"/><img src="https://img.shields.io/badge/Amazon S3-569A31?style=plastic-square&logo=Amazon S3&logoColor=white"/><img src="https://img.shields.io/badge/Amazon CodeDeploy-DD344C?style=plastic-square&logo=Amazon CodeDeploy&logoColor=white"/><img src="https://img.shields.io/badge/Github Actions-2088FF?style=plastic-square&logo=githubactions&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Toast UI-515CE6?style=plastic-square&logo=Toast UI&logoColor=white"/>
 
